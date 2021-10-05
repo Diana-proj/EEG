@@ -1,3 +1,5 @@
+1.0.0 2021-10-18
+  - Release EEG Data with Motion data corresponding to the latest extension protocol
 1.1.0 2021-03-03
   - Fixed typos and added incomplete data for some subjects
 1.0.4 2021-03-01
