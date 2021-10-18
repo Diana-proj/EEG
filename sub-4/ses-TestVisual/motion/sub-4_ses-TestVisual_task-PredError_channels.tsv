@@ -1,0 +1,13 @@
+name	type	units	sampling_frequency	tracking_system	tracked_point	component	placement
+Rigid_handR_eul_x	ORNT	rad	89.5155606125712	HTCVive	Rigid_handR	x	right_hand
+Rigid_handR_eul_y	ORNT	rad	89.5155606125712	HTCVive	Rigid_handR	y	right_hand
+Rigid_handR_eul_z	ORNT	rad	89.5155606125712	HTCVive	Rigid_handR	z	right_hand
+Rigid_handR_cart_x	POS	m	89.5155606125712	HTCVive	Rigid_handR	x	right_hand
+Rigid_handR_cart_y	POS	m	89.5155606125712	HTCVive	Rigid_handR	y	right_hand
+Rigid_handR_cart_z	POS	m	89.5155606125712	HTCVive	Rigid_handR	z	right_hand
+Rigid_Head_eul_x	ORNT	rad	89.5155606125712	HTCVive	Rigid_Head	x	head
+Rigid_Head_eul_y	ORNT	rad	89.5155606125712	HTCVive	Rigid_Head	y	head
+Rigid_Head_eul_z	ORNT	rad	89.5155606125712	HTCVive	Rigid_Head	z	head
+Rigid_Head_cart_x	POS	m	89.5155606125712	HTCVive	Rigid_Head	x	head
+Rigid_Head_cart_y	POS	m	89.5155606125712	HTCVive	Rigid_Head	y	head
+Rigid_Head_cart_z	POS	m	89.5155606125712	HTCVive	Rigid_Head	z	head

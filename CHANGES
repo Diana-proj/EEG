@@ -1,0 +1,10 @@
+1.1.0 2021-03-03
+  - Fixed typos and added incomplete data for some subjects
+1.0.4 2021-03-01
+  - updated title
+1.0.3 2021-03-01
+  - Readme now more comprehensive
+1.0.2 2021-03-01
+  - fixed typo in participants.tsv which produced a warning from BIDS validator
+1.0.1 2021-03-01
+  - Updated README to include links to BIDS Motion specification work-in-progress

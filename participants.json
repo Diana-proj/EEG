@@ -1,0 +1,31 @@
+{
+	"nr": {
+		"Description": "unique participant identifier"
+	},
+	"biological_sex": {
+		"Description": "biological sex of the participant",
+		"Levels": {
+			"m": "male",
+			"f": "female"
+		}
+	},
+	"age": {
+		"Description": "age of the participant",
+		"Units": "years"
+	},
+	"cap_size": {
+		"Description": "head circumference and EEG cap sized used",
+		"Units": "centimeter"
+	},
+	"block_1": {
+		"Description": "pseudo permutation of sensory feedback conditions: condition of first block",
+		"Units": "Visual = Visual only condition; Visual + Vibro = Simultaneous visual and vibrotactile sensory feedback"
+	},
+	"block_2": {
+		"Description": "pseudo permutation of sensory feedback conditions: condition of second block"
+	},
+	"block_3": {
+		"Description": "some select participants completed a third block with Visual + Vibro + EMS sensory feedback",
+		"Units": "Visual + Vibro + EMS = Simultaneous visual, vibrotactile and electrical muscle stimulation sensory feedback"
+	}
+}

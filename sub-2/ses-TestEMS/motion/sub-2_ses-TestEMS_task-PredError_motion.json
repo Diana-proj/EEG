@@ -1,0 +1,31 @@
+{
+	"InstitutionAddress": "Strasse des 17. Juni 135, 10623, Berlin, Germany",
+	"InstitutionName": "Technische Universitaet zu Berlin",
+	"InstitutionalDepartmentName": "Biological Psychology and Neuroergonomics",
+	"MotionChannelCount": 12,
+	"RecordingDuration": 658.1041845,
+	"RecordingType": "continuous",
+	"TaskDescription": "Mismatch Negativity paradigm in which participants equipped with VR HMD and 64 Channel EEG reached to touch virtual objects",
+	"TaskName": "PredError",
+	"TrackedPointsCountTotal": 2,
+	"TrackingSystemCount": 1,
+	"TrackingSystems": {
+		"HTCVive": {
+			"Manufacturer": "DefaultManufacturer",
+			"ManufacturerModelName": "DefaultModel",
+			"SamplingFrequencyNominal": "n/a",
+			"SamplingFrequencyEffective": 62.48706659,
+			"RecordingDuration": 658.1041845,
+			"TrackedPointsCount": 2,
+			"StartTime": null,
+			"POSChannelCount": 6,
+			"ORNTChannelCount": 6,
+			"VELChannelCount": 0,
+			"ANGVELChannelCount": 0,
+			"ACCChannelCount": 0,
+			"ANGACCChannelCount": 0,
+			"MAGNChannelCount": 0,
+			"JNTANGChannelCount": 0
+		}
+	}
+}

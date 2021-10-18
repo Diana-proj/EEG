@@ -1,0 +1,127 @@
+{
+	"timestamp": {
+		"Description": "Event onset",
+		"Units": "second"
+	},
+	"duration": {
+		"Description": "Event duration",
+		"Units": "second"
+	},
+	"type": {
+		"Description": "Type of event"
+	},
+	"response_time": {
+		"Description": "Response time column not used for this data"
+	},
+	"sample": {
+		"Description": "Event sample starting at 0 (Matlab convention starting at 1)"
+	},
+	"value": {
+		"Description": "Value of event (raw makers)"
+	},
+	"block": {
+		"Description": "start and end of an experimental block",
+		"Levels": {
+			"start": "start",
+			"end": "end"
+		}
+	},
+	"currentBlockNr": {
+		"Description": "three experimental blocks per condition",
+		"Units": "integer"
+	},
+	"condition": {
+		"Description": "sensory feedback type",
+		"Levels": {
+			"visual": "visual",
+			"vibro": "visual + vibrotactile",
+			"ems": "visual + vibrotactile + electrical muscle stimulation"
+		}
+	},
+	"training": {
+		"Description": "1 (true) if pre experimental training condition"
+	},
+	"box": {
+		"Description": "reach-to-touch trial procedure",
+		"Levels": {
+			"spawned": "box spawned on table in front of participant",
+			"touched": "participant completed reach-to-touch, moment of collision with object"
+		}
+	},
+	"trial_nr": {
+		"Description": "increasing counter of trials"
+	},
+	"normal_or_conflict": {
+		"Description": "reach-to-touch trial condition",
+		"Levels": {
+			"normal": "congruent sensory feedback, collider size matches object size",
+			"conflict": "incongruent sensory feedback, collider size bigger than object size causing to too-early sensory feedback"
+		}
+	},
+	"cube": {
+		"Description": "location of spawned object from participants perspective",
+		"Levels": {
+			"left": "to participants left",
+			"middle": "in front of the participant",
+			"right": "to participants right"
+		}
+	},
+	"isiTime": {
+		"Description": "inter-stimulus-interval; time elapsed from trial start to object spawn",
+		"Units": "seconds"
+	},
+	"emsFeedback": {
+		"Description": "whether electrical muscle stimulation occurred",
+		"Levels": {
+			"on": "electrical muscle stimulation active"
+		}
+	},
+	"reaction_time": {
+		"Description": "duration of reach-to-touch; time elapsed between object spawn and object touch",
+		"Units": "seconds"
+	},
+	"emsCurrent": {
+		"Description": "electrical muscle stimulation parameter: current",
+		"Units": "milliampere"
+	},
+	"emsWidth": {
+		"Description": "electrical muscle stimulation parameter: pulse width",
+		"Units": "microseconds"
+	},
+	"pulseCount": {
+		"Description": "electrical muscle stimulation parameter: pulse count",
+		"Units": "count"
+	},
+	"vibroFeedback": {
+		"Description": "whether vibrotactile stimulation occurred",
+		"Levels": {
+			"on": "vibrotactile stimulation active"
+		}
+	},
+	"vibroFeedbackDuration": {
+		"Description": "duration of activated vibrotactile motor",
+		"Units": "seconds"
+	},
+	"visualFeedback": {
+		"Description": "remove rendering of object after touching",
+		"Levels": {
+			"off": "object removed"
+		}
+	},
+	"ipq_question_nr_1_answer": {
+		"Description": "answer to IPQ item 1",
+		"Units": "Likert"
+	},
+	"ipq_question_nr_2_answer": {
+		"Description": "answer to IPQ item 2",
+		"Units": "Likert"
+	},
+	"ipq_question_nr_3_answer": {
+		"Description": "answer to IPQ item 3",
+		"Units": "Likert"
+	},
+	"ipq_question_nr_4_answer": {
+		"Description": "answer to IPQ item 4",
+		"Units": "Likert"
+	}
+}

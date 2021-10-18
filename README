@@ -1,0 +1,13 @@
+### Prediction Error EEG & Motion Study
+This is the dataset of the study "prediction error". In short, 19 participants were tested in a virtual reality (VR) reach-to-object task. In the task participants experienced visual, visual with vibrotactile or visual with vibrotactile (all subjects) and electrical muscle stimulation (EMS) feedback (10 subjects) . In 25% of trials the feedback, 'button selection', was provided prematurely, resulting in prediction error / mismatch ERPs (oddball style paradigm). Participants rated their interactive experience on the Immersion and Presence Questionnaire (IPQ) and their workload on the NASA-TLX.
+
+Details about the study can be found in the following publication(s):
+- Detecting Visuo-Haptic Mismatches in Virtual Reality using the Prediction Error Negativity of Event-Related Brain Potentials. Lukas Gehrke, Sezen Akman, Pedro Lopes, Albert Chen, Avinash Kumar Singh, Hsiang-Ting Chen, Chin-Teng Lin and Klaus Gramann | In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). ACM, New York, NY, USA, Paper 427, 11 pages. DOI: https://doi.org/10.1145/3290605.3300657
+
+A full repository including data, experimental VR protocol (Unity), and publication resources can be found at [OSF, doi: 10.17605/OSF.IO/X7HNM](https://osf.io/x7hnm/)
+
+### Available Data
+Data include `64 channel EEG + 1 reference` and `12 channel Motion` (6DOF right hand, 6DOF head). Motion metadata is formatted to current preliminary [BIDS Motion](https://docs.google.com/document/d/1iaaLKgWjK5pcISD1MVxHKexB3PZWfE2aAC5HF_pCZWo/edit), see [how to get involved](https://bids.neuroimaging.io/get_involved.html#extending-the-bids-specification).
+
+### Data Format and Derivation
+Original data were recorded in `.xdf` format using [labstreaminglayer](https://github.com/sccn/labstreaminglayer). A `\sourcedata` directory is currently missing since our `.xdf` files did not comply with GDPR.

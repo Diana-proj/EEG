@@ -1,0 +1,20 @@
+participant_id	nr	age	biological_sex	cap_size	block_1	block_2	block_3
+sub-1	1	24	m	58	Visual	Visual + Vibro	Visual + Vibro + EMS
+sub-2	2	25	m	56	Visual + Vibro	Visual	Visual + Vibro + EMS
+sub-3	3	28	m	60	Visual	Visual + Vibro	0
+sub-4	4	18	f	58	Visual + Vibro	Visual	0
+sub-5	5	32	f	55	Visual	Visual + Vibro	Visual + Vibro + EMS
+sub-6	6	28	m	54	Visual + Vibro	Visual	Visual + Vibro + EMS
+sub-7	7	31	m	58	Visual	Visual + Vibro	Visual + Vibro + EMS
+sub-8	8	24	m	54	Visual + Vibro	Visual	0
+sub-9	9	34	f	54	Visual	Visual + Vibro	0
+sub-10	10	27	f	56	Visual + Vibro	Visual	Visual + Vibro + EMS
+sub-11	11	28	f	54	Visual	Visual + Vibro	Visual + Vibro + EMS
+sub-12	12	27	f	54	Visual + Vibro	Visual	Visual + Vibro + EMS
+sub-13	13	24	f	54	Visual	Visual + Vibro	Visual + Vibro + EMS
+sub-14	14	31	f	54	Visual + Vibro	Visual	Visual + Vibro + EMS
+sub-15	15	26	f	56	Visual	Visual + Vibro	Visual + Vibro + EMS
+sub-16	16	25	f	56	Visual + Vibro	Visual	0
+sub-17	17	25	f	56	Visual	Visual + Vibro	0
+sub-18	18	25	f	56	Visual + Vibro	Visual	0
+sub-19	19	26	m	54	Visual	Visual + Vibro	0
