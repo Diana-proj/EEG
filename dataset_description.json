@@ -14,9 +14,6 @@
     ],
     "License": "CC0",
     "Name": "Prediction Error",
-    "HowToAcknowledge": [
-        "Detecting Visuo-Haptic Mismatches in Virtual Reality using the Prediction Error Negativity of Event-Related Brain Potentials. Lukas Gehrke, Sezen Akman, Pedro Lopes, Albert Chen, Avinash Kumar Singh, Hsiang-Ting Chen, Chin-Teng Lin and Klaus Gramann | In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI \u201919). ACM, New York, NY, USA, Paper 427, 11 pages. DOI: https://doi.org/10.1145/3290605.3300657"
-    ],
     "ReferencesAndLinks": [
         "Detecting Visuo-Haptic Mismatches in Virtual Reality using the Prediction Error Negativity of Event-Related Brain Potentials. Lukas Gehrke, Sezen Akman, Pedro Lopes, Albert Chen, Avinash Kumar Singh, Hsiang-Ting Chen, Chin-Teng Lin and Klaus Gramann | In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI \u201919). ACM, New York, NY, USA, Paper 427, 11 pages. DOI: https://doi.org/10.1145/3290605.3300657"
     ],
